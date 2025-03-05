@@ -1,6 +1,6 @@
-### Food_Court - Food Ordering Web App
+### Food_Zone - Food Ordering Web App
 
-Food_Court is a simple food ordering web application where users can search and filter food items based on different categories like **Breakfast, Lunch, and Dinner**.
+Food_Zone is a simple food ordering web application where users can search and filter food items based on different categories like **Breakfast, Lunch, and Dinner**.
 
 ## Features
 
@@ -25,7 +25,7 @@ git clone https://github.com/your-username/foody-zone.git
 ```
 ### 2️⃣ Navigate to the Project Directory
 ```sh
-cd food_court
+cd food_Zone
 
 ```
 ### 3️⃣ Install Dependencies
@@ -41,7 +41,7 @@ npm start
 
 ### 📂 Project Structure
 
-📦 FOODCOURT
+📦 FOODZone
 ├── 📂 src
 │   ├── 📂 components
 │   │   ├── 📂 SearchResult
