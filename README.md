@@ -1,6 +1,6 @@
-### Food_Zone - Food Ordering Web App
+### Foody_Zone - Food Ordering Web App
 
-Food_Zone is a simple food ordering web application where users can search and filter food items based on different categories like **Breakfast, Lunch, and Dinner**.
+Foody_Zone is a simple food ordering web application where users can search and filter food items based on different categories like **Breakfast, Lunch, and Dinner**.
 
 ## Features
 
